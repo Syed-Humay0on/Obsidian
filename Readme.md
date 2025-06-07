@@ -1,5 +1,5 @@
 ![[dark_girl.jpg]]
-
+:LiAArrowDown:
 #  Main Obsidian Config
 Since I'm on Arch, this will be my main config which will include all the plugins, themes, Icon Packs, Images, Banners and everything I could possibly gather to  maintain my vault
 
