@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8314e997ab44ed6",
+  "active": "476cb7ac6365616a",
   "lastOpenFiles": [
     "images/banners/nikita-kachanovsky-unsplash.jpg",
     "images/banners/dark_girl.jpg",
