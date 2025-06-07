@@ -11,7 +11,7 @@ Or even better, use Snap Installer to make sure you don't have to go through dep
 	cd snapd
 	makepkg -si
 
-Check the if it's installed properly
+Check the version to ensure it's installed:
 
 	snap --version
 	
@@ -19,11 +19,11 @@ Once installed, the *systemd* unit that manages the main snap communication sock
 
 	sudo systemctl enable --now snapd.socket
 
-Then install obsidian and check the version (latest 1.8.10)		
+Then install obsidian and check the version (latest 1.8.10)	
 	
 	sudo snap install obsidian --classic
 
-Once Installed, check the version
+Once Installed, check the version:
 
 	obsidian --version 
 
