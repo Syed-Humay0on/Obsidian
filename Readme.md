@@ -1,6 +1,6 @@
 ![[dark_girl.jpg]]
 #  Main Obsidian Config
-Since I'm on Arch, this will be my main config which will include all the plugins, themes, Icon Packs, Images, Banners and everything I could possibly gather to  maintain my vault
+This will be my main config which will include all the plugins, themes, Icon Packs, Images, Banners and everything I could possibly gather to  maintain all my Obsidian vault
 
 If you're using [**Arch**](https://archlinux.org/) like me, you could simply install it from arch repository 
 
