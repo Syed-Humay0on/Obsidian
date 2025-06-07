@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Readme.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8314e997ab44ed6",
+  "active": "476cb7ac6365616a",
   "lastOpenFiles": [
     "Untitled",
     "Kubernetes/Kubernetes.md",
