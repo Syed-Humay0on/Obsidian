@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Kubernetes"
             }
+          },
+          {
+            "id": "cb223b8cf767a3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "476cb7ac6365616a",
+  "active": "cb223b8cf767a3a5",
   "lastOpenFiles": [
-    "Nvim Config/README.md",
     "Kubernetes/Kubernetes.md",
-    "Untitled.md",
+    "Readme.md",
+    "Nvim Config/README.md",
     "CV.md",
     "Kubernetes",
     "conflict-files-obsidian-git.md",

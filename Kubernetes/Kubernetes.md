@@ -1,5 +1,5 @@
 ---
-banner_icon: :heart
+banner_icon:
 ---
 #### Fullstack DevOps Journey with Electron, Docker & K3s
 
