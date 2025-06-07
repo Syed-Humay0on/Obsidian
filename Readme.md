@@ -1,4 +1,4 @@
-![[dark_girl.jpg]]
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYeqB_qKiGgrdFkWYfIP_knyUvE5WYAfNqw&s)
 #  Main Obsidian Config
 This will be my main config which will include all the plugins, themes, Icon Packs, Images, Banners and everything I could possibly gather to  maintain all my Obsidian vault
 
