@@ -1,5 +1,5 @@
 ![Banner](https://i.ytimg.com/vi/6ucBfohOZdk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBa_0HFuxnvo-JJGXMbIuqkg2ambg)
-#  Main Obsidian Config
+#  My Personal Obsidian Config
 This will be my main config which will include all the plugins, themes, Icon Packs, Images, Banners and everything I could possibly gather to  maintain all my Obsidian vault
 
 If you're using [**Arch**](https://archlinux.org/) like me, you could simply install it from arch repository 
@@ -28,3 +28,4 @@ Once Installed, check the version:
 
 	obsidian --version 
 
+Now you're good to go! install plugins 
