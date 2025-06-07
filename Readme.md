@@ -1,7 +1,7 @@
 #  Main Obsidian Config
 Since I'm on Arch, this will be my main config which will include all the plugins, themes, Icon Packs, Images, Banners and everything I could possibly gather to  maintain my vault
 
-If you're using Arch like me, you could simply install it from arch repository 
+If you're using **Arch** like me, you could simply install it from arch repository 
 
 	sudo pacman -S Obsidian
 
@@ -19,7 +19,7 @@ Once installed, the *systemd* unit that manages the main snap communication sock
 
 	sudo systemctl enable --now snapd.socket
 
-Then install obsidian and check the version (1.8.10)		
+Then install obsidian and check the version (latest 1.8.10)		
 	
 	sudo snap install obsidian --classic
 	obsidian --version 
