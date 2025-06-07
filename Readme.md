@@ -4,6 +4,6 @@ Since I'm on Arch, this will be my main config which will include all the plugin
 If you're using Arch like me, you could simply install it from arch repository 
 >`sudo pacman -S Obsidian`
 
-or even better, use Snap Installer to make sure you don't have to hastle through dependency hell
+Or even better, use Snap Installer to make sure you don't have to go through dependency hell
 
 >`sudo snap install obsidian --classic`
