@@ -1,1 +1,2 @@
-#  Main Obsidian Config 
+#  Main Obsidian Config
+Since I'm on
