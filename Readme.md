@@ -5,7 +5,9 @@ If you're using Arch like me, you could simply install it from arch repository
 
 	sudo pacman -S Obsidian
 
-Or even better, use Snap Installer to make sure you don't have to go through dependency hell. First, make sure you have installed
+Or even better, use Snap Installer to make sure you don't have to go through dependency hell. First, make sure you have snap installed. you can install it via
 
+	git clone https://aur.archlinux.org/snapd.git
+		
 	sudo snap install obsidian --classic
 
