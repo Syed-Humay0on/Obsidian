@@ -19,8 +19,8 @@ Once installed, the *systemd* unit that manages the main snap communication sock
 
 	sudo systemctl enable --now snapd.socket
 
-Then install obsidian and check the version		
+Then install obsidian and check the version (1.8.10)		
 	
 	sudo snap install obsidian --classic
-	obsidian --version <--1.8.10 latest as of now
+	obsidian --version 
 
