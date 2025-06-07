@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "images/banners.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banners"
+              "title": "Readme"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "476cb7ac6365616a",
   "lastOpenFiles": [
-    "Readme.md",
     "images/banners.md",
+    "Readme.md",
     "images",
     "dark_girlValut.jpg",
     "dark_girl.jpg",
