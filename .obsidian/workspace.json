@@ -182,9 +182,13 @@
   },
   "active": "476cb7ac6365616a",
   "lastOpenFiles": [
+    "images/banners/nikita-kachanovsky-unsplash.jpg",
+    "images/banners/dark_girl.jpg",
+    "images/banners/DValut.jpg",
+    "images/banners",
+    "images",
     "images/banners.md",
     "Readme.md",
-    "images",
     "dark_girlValut.jpg",
     "dark_girl.jpg",
     "nikita-kachanovsky-unsplash.jpg",
@@ -202,7 +206,6 @@
     "Nvim Config/lua/custom/autocmds.lua",
     "Nvim Config/lua/config/lspconfig.lua",
     "Nvim Config/lua/config/lazy.lua",
-    "Nvim Config/lua/config/conform.lua",
     "Welcome.md",
     "create a link.md",
     "Local Neovim/Obsidian.md"
