@@ -6,3 +6,6 @@ If you're using Arch like me, you could simply install it from arch repository
 
 or even better, use Snap Installer to make sure you don't have to hastle through dependency hell
 
+
+`sudo snap install obsidian --classic`
+fk
