@@ -15,5 +15,5 @@ Then install obsidian
 	
 	sudo snap install obsidian --classic
 
-
+Once installed, the **systemd** unit that manages the main snap communication socket needs to be enabled:
 
