@@ -1,0 +1,11 @@
+{
+  "obsidian-banners:banners:addIcon": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}
