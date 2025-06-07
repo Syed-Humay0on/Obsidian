@@ -12,5 +12,8 @@ Or even better, use Snap Installer to make sure you don't have to go through dep
 	makepkg -si
 
 Then install obsidian		
+	
 	sudo snap install obsidian --classic
+
+
 
