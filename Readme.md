@@ -19,4 +19,5 @@ Then install obsidian
 	
 	sudo snap install obsidian --classic
 
-:LiHeart:
+:LiHeadphones:
+
