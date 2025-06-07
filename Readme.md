@@ -11,12 +11,12 @@ Or even better, use Snap Installer to make sure you don't have to go through dep
 	cd snapd
 	makepkg -si
 
-
 Once installed, the *systemd* unit that manages the main snap communication socket needs to be enabled:
 
 	sudo systemctl enable --now snapd.socket
+
 Then install obsidian		
 	
 	sudo snap install obsidian --classic
 
-
+:LiHeart:
