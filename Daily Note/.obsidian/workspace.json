@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7f2b6630e0832417",
+    "id": "3463a5bcbffe7275",
     "type": "split",
     "children": [
       {
-        "id": "06e43fa5ef74197f",
+        "id": "43cafafeea1e6ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "476cb7ac6365616a",
+            "id": "1ae28f6b435b05e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/Welcome.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,20 +22,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "faa08297ab0ef555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3294830e7fbfaf09",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "935e26ad91c813ca",
+    "id": "9db7e237f1b433d1",
     "type": "split",
     "children": [
       {
-        "id": "8b928c8d4dcdaea1",
+        "id": "c0c56e4df44dd6e5",
         "type": "tabs",
         "children": [
           {
-            "id": "b8314e997ab44ed6",
+            "id": "5d56f3320db8b640",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "e11222870464d1e6",
+            "id": "8671565a61895375",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "3e5eac1c60b43e07",
+            "id": "8cb19f48ef4a2378",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +94,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "fec5f685983a30a2",
+    "id": "bcd5232f0a50135c",
     "type": "split",
     "children": [
       {
-        "id": "fbc7faab9626c339",
+        "id": "8185dacc04a8ae3a",
         "type": "tabs",
         "children": [
           {
-            "id": "335851514940d545",
+            "id": "f982af04cd9d59c3",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +124,7 @@
             }
           },
           {
-            "id": "49223f0378b607fc",
+            "id": "f7a68b08f60a4675",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +138,7 @@
             }
           },
           {
-            "id": "f632c03858553d3f",
+            "id": "673057076106e971",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +153,7 @@
             }
           },
           {
-            "id": "171be3fd2df5daf3",
+            "id": "7d33f22f2c1d2e67",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -150,23 +166,13 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
-          },
-          {
-            "id": "5008b3bf4e71c254",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,41 +181,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "476cb7ac6365616a",
+  "active": "1ae28f6b435b05e7",
   "lastOpenFiles": [
-    "Readme.md",
-    "Daily Note/Welcome.md",
-    "Daily Note",
-    "Untitled",
-    "images/banners/ObsidianBanner.jpg",
-    "images/hq720.jpg",
-    "images/banners/nikita-kachanovsky-unsplash.jpg",
-    "images/banners/dark_girl.jpg",
-    "images/banners/DValut.jpg",
-    "images/banners",
-    "images",
-    "images/banners.md",
-    "dark_girlValut.jpg",
-    "dark_girl.jpg",
-    "images/nikita-kachanovsky-unsplash.jpg",
-    "Kubernetes/Kubernetes.md",
-    "Nvim Config/README.md",
-    "CV.md",
-    "Kubernetes",
-    "conflict-files-obsidian-git.md",
-    "Nvim Config/Color Palette.md",
-    "Cirriculumn Vitae/CV.md",
-    "Cirriculumn Vitae",
-    "Nvim Config/lua/plugins/snacks.lua",
-    "Nvim Config/lua/plugins/init.lua",
-    "Nvim Config/lua/custom/autocmds.lua",
-    "Nvim Config/lua/config/lspconfig.lua",
-    "Welcome.md",
-    "create a link.md",
-    "Local Neovim/Obsidian.md"
+    "Welcome.md"
   ]
 }
