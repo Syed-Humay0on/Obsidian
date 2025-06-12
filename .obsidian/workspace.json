@@ -74,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fec5f685983a30a2",
@@ -179,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8314e997ab44ed6",
+  "active": "476cb7ac6365616a",
   "lastOpenFiles": [
     "Untitled",
     "Daily Note/Welcome.md",
