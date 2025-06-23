@@ -2,6 +2,7 @@
 #  Obsidian Workspace 
 This will be my main config which will include all the plugins, themes, Icon Packs, Images, Banners and literally everything I could possibly get my hands on to  boost my note taking experience & manage all my Obsidian vaults.
 
+imp
 If you're using [**Arch**](https://archlinux.org/) like me, you could simply install it from arch repository 
 
 	sudo pacman -S Obsidian
