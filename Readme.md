@@ -29,7 +29,3 @@ Once Installed, check the version:
 	obsidian --version 
 
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
-
-
-:LiActivity:
-
