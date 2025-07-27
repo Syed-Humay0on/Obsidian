@@ -4,7 +4,7 @@ aliases: []
 tags: []
 ---
 
-# Devpods Setup
+# Devpod Setup
 
 install Devpod cli from official Site [Devpods.sh](https://devpod.sh/docs/getting-started/install)
 
