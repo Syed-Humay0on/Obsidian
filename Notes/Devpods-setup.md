@@ -13,7 +13,7 @@ install Devpod cli from official Site [Devpods.sh](https://devpod.sh/docs/gettin
 > since I'm using arch on AMDx64 system so I'm gonna be using that link
     
 ```
-    curl -L -o devpod "https://github.com/loft-sh/devpod/releases/latest/download/devpod-linux-amd64" && sudo install -c -m 0755 devpod /usr/local/bin && rm -f devpod 
+curl -L -o devpod "https://github.com/loft-sh/devpod/releases/latest/download/devpod-linux-amd64" && sudo install -c -m 0755 devpod /usr/local/bin && rm -f devpod 
 ```
 
 
