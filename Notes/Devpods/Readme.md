@@ -1,7 +1,9 @@
 ---
 id: Devpods-setup
-aliases: []
-tags: []
+aliases:
+  - Devpods Setup
+tags:
+  - DP
 ---
 # Setup Devpod using Docker provider
 
