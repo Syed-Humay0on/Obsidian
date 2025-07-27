@@ -15,7 +15,7 @@ curl -L -o devpod "https://github.com/loft-sh/devpod/releases/latest/download/de
 ```
 
 After installing devpod-cli, check the version
-
+```
     devpod version
-
+```
 
