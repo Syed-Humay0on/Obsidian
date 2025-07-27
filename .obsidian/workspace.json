@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "744b787e76d9b3a4",
+  "active": "b8314e997ab44ed6",
   "lastOpenFiles": [
     "Readme.md",
     "Untitled",
