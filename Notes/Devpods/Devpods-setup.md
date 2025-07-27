@@ -6,9 +6,9 @@ tags: []
 
 # Devpod Setup
 
-install Devpod cli from official site [Devpods.sh](https://devpod.sh/docs/getting-started/install)
+install Devpod cli from official [Devpods.sh](https://devpod.sh/docs/getting-started/install) site
 
-> [!IMPORTANT]
+> [!Note]
 > since I'm using arch on AMDx64 system so I'm gonna be using that link
     
 ```

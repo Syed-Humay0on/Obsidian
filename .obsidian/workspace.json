@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Devpods-setup.md",
+                "file": "Notes/Devpods/Devpods-setup.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88302f9f64a0819e",
+  "active": "b8314e997ab44ed6",
   "lastOpenFiles": [
+    "Notes/Devpods",
     "Notes/devpod",
     "Notes/Devpods-setup.md~",
     "Readme.md",
-    "Notes/Devpods-setup.md",
+    "Notes/Devpods/Devpods-setup.md",
     "Notes/1753617426-XLBM.md",
     "Notes/Untitled.md",
     "Notes/Devpods-setup",
@@ -212,7 +213,6 @@
     "Cirriculumn Vitae/CV.md",
     "Cirriculumn Vitae",
     "Nvim Config/lua/plugins/snacks.lua",
-    "Nvim Config/lua/plugins/init.lua",
     "Welcome.md",
     "create a link.md",
     "Local Neovim/Obsidian.md"
