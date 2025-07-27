@@ -1,11 +1,10 @@
 ---
-id: 1753617426-XLBM
-aliases:
-  - Devpods-setup
+id: Devpods-setup
+aliases: []
 tags: []
 ---
 
-# Devpods-setup
+# Devpods Setup
 
 install Devpod cli from official Site [Devpods.sh](https://devpod.sh/docs/getting-started/install)
 
