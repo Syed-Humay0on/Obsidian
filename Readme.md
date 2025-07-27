@@ -1,4 +1,4 @@
-![Obsidian](/images/banners/ObsidianBanner.jpg)
+![Obsidian](/assets/banners/ObsidianBanner.jpg)
 #  Obsidian Workspace 
 This will be my main config which will include all the Notes I work on through out my production journey! this will also includes all the plugins, themes, Icon Packs, Images, Banners and literally everything I could possibly get my hands on to  boost my note taking experience & manage all my Obsidian vaults in my .obsidian file.
 
