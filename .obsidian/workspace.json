@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Devpods-setup.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devpods-setup"
+              "title": "Readme"
             }
           }
         ],
@@ -196,10 +196,10 @@
   },
   "active": "52795a38dc008ccb",
   "lastOpenFiles": [
+    "Notes/Devpods-setup.md",
     "Notes/1753617426-XLBM.md",
     "Readme.md",
     "Notes/Untitled.md",
-    "Notes/Devpods-setup.md",
     "Notes/Devpods-setup",
     "Untitled.md",
     "Notes",
