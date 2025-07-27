@@ -3,7 +3,7 @@ id: Devpods-setup
 aliases: []
 tags: []
 ---
-# Devpod Setup
+# Setup Devpod using Docker provider
 
 Install Devpod cli from official [Devpods.sh](https://devpod.sh/docs/getting-started/install) site
 
