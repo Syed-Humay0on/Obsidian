@@ -196,6 +196,8 @@
   },
   "active": "52795a38dc008ccb",
   "lastOpenFiles": [
+    "Notes/Devpods-setup.md",
+    "Notes/Devpods-setup",
     "Readme.md",
     "Notes/Untitled.md",
     "Untitled.md",
@@ -224,7 +226,6 @@
     "Nvim Config/lua/plugins/snacks.lua",
     "Nvim Config/lua/plugins/init.lua",
     "Nvim Config/lua/custom/autocmds.lua",
-    "Nvim Config/lua/config/lspconfig.lua",
     "Welcome.md",
     "create a link.md",
     "Local Neovim/Obsidian.md"
