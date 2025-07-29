@@ -26,4 +26,3 @@ You can add a provider via (local-docker for example):
 ```
 devpod provider add docker
 ```
-
