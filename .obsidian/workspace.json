@@ -11,12 +11,14 @@
             "id": "88302f9f64a0819e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/banners/nikita-kachanovsky-unsplash.jpg"
+                "file": "Notes/Progress/Elixir Riverpod.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "nikita-kachanovsky-unsplash"
+              "icon": "lucide-file",
+              "title": "Elixir Riverpod"
             }
           }
         ]
@@ -177,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8314e997ab44ed6",
+  "active": "88302f9f64a0819e",
   "lastOpenFiles": [
+    "assets/banners/nikita-kachanovsky-unsplash.jpg",
+    "Notes/Progress/Elixir Riverpod.md",
     "Notes/Progress",
     "assets/banners/ObsidianBanner.jpg",
-    "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "assets/banners/dark_girl.jpg",
     "Readme.md",
     "Notes/Devpods/Readme.md",
@@ -210,7 +213,6 @@
     "Kubernetes/Kubernetes.md",
     "Nvim Config/README.md",
     "CV.md",
-    "Kubernetes",
     "conflict-files-obsidian-git.md",
     "Nvim Config/Color Palette.md",
     "Cirriculumn Vitae/CV.md",
