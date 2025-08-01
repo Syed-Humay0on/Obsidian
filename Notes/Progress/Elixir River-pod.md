@@ -2,4 +2,4 @@
 ## Basic Analogy
 
 
-whilst functions are pre-bundled a
+whilst functions are pre-bundled and modular, they're mainly immuntable becuase immutability doesn't xist in Elixir
