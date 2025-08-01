@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Progress/Elixir River-pod.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fec5f685983a30a2",
