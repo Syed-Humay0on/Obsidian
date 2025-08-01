@@ -11,14 +11,12 @@
             "id": "88302f9f64a0819e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/banners/nikita-kachanovsky-unsplash.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-image",
+              "title": "nikita-kachanovsky-unsplash"
             }
           }
         ]
@@ -179,15 +177,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88302f9f64a0819e",
+  "active": "b8314e997ab44ed6",
   "lastOpenFiles": [
+    "Notes/Progress",
+    "assets/banners/ObsidianBanner.jpg",
+    "assets/banners/nikita-kachanovsky-unsplash.jpg",
+    "assets/banners/dark_girl.jpg",
+    "Readme.md",
     "Notes/Devpods/Readme.md",
     "Notes/Devpods/Readme.md~",
     "Notes/Devpods-setup.md",
     "Notes/Devpods",
     "Notes/devpod",
     "Notes/Devpods-setup.md~",
-    "Readme.md",
     "Notes/1753617426-XLBM.md",
     "Notes/Untitled.md",
     "Notes/Devpods-setup",
@@ -205,7 +207,6 @@
     "images/banners.md",
     "dark_girlValut.jpg",
     "dark_girl.jpg",
-    "images/nikita-kachanovsky-unsplash.jpg",
     "Kubernetes/Kubernetes.md",
     "Nvim Config/README.md",
     "CV.md",
