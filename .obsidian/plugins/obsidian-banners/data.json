@@ -14,6 +14,6 @@
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
   "localSuggestionsLimit": null,
-  "bannersFolder": "images",
+  "bannersFolder": null,
   "allowMobileDrag": false
 }
