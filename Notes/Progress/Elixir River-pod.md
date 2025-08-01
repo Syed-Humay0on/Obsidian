@@ -1,2 +1,3 @@
-![[nikita-kachanovsky-unsplash.jpg]]
-#Basic Analogy
+## Basic Analogy
+
+
