@@ -11,13 +11,14 @@
             "id": "ed051e64435fad22",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -180,12 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8314e997ab44ed6",
+  "active": "ed051e64435fad22",
   "lastOpenFiles": [
     "Untitled 1.base",
+    "Untitled 2.base",
     "Untitled.base",
     "Readme.md",
-    "Untitled 2.base",
     "Notes/Progress/Elixir River-pod.md",
     "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "Notes/Progress",
