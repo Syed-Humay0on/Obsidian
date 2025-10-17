@@ -11,10 +11,14 @@
             "id": "ed051e64435fad22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Readme"
             }
           }
         ]
@@ -180,6 +184,7 @@
   },
   "active": "ed051e64435fad22",
   "lastOpenFiles": [
+    "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
     "Notes/Progress/Elixir River-pod.md",
@@ -206,7 +211,6 @@
     "images/banners/nikita-kachanovsky-unsplash.jpg",
     "images/banners/dark_girl.jpg",
     "images/banners/DValut.jpg",
-    "images/banners",
     "images/banners.md",
     "dark_girlValut.jpg",
     "dark_girl.jpg",
