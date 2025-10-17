@@ -11,14 +11,13 @@
             "id": "ed051e64435fad22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fec5f685983a30a2",
@@ -182,17 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed051e64435fad22",
+  "active": "b8314e997ab44ed6",
   "lastOpenFiles": [
-    "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
+    "Readme.md",
+    "Untitled 2.base",
     "Notes/Progress/Elixir River-pod.md",
     "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "Notes/Progress",
     "assets/banners/ObsidianBanner.jpg",
     "assets/banners/dark_girl.jpg",
-    "Readme.md",
     "Notes/Devpods/Readme.md",
     "Notes/Devpods/Readme.md~",
     "Notes/Devpods-setup.md",
@@ -205,7 +203,6 @@
     "Untitled.md",
     "Notes",
     "Daily Note/Welcome.md",
-    "Daily Note",
     "images/banners/ObsidianBanner.jpg",
     "images/hq720.jpg",
     "images/banners/nikita-kachanovsky-unsplash.jpg",
