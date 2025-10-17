@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4be23ec65290cf14",
+        "id": "cd69e89a754deac7",
         "type": "tabs",
         "children": [
           {
-            "id": "88302f9f64a0819e",
+            "id": "ed051e64435fad22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Progress/Elixir River-pod.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Elixir River-pod"
+              "title": "New tab"
             }
           }
         ]
@@ -182,10 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88302f9f64a0819e",
+  "active": "ed051e64435fad22",
   "lastOpenFiles": [
-    "assets/banners/nikita-kachanovsky-unsplash.jpg",
+    "Untitled 1.base",
+    "Untitled.base",
     "Notes/Progress/Elixir River-pod.md",
+    "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "Notes/Progress",
     "assets/banners/ObsidianBanner.jpg",
     "assets/banners/dark_girl.jpg",
@@ -209,7 +207,6 @@
     "images/banners/dark_girl.jpg",
     "images/banners/DValut.jpg",
     "images/banners",
-    "images",
     "images/banners.md",
     "dark_girlValut.jpg",
     "dark_girl.jpg",
