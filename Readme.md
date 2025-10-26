@@ -13,7 +13,8 @@ Even better, use Official App Image from their [**GitHub repo**](https://github.
 > version 1.9.14 is the latest as of right now 
 
 ```
-
+mkdir -p ~/Applications
+cd ~/Applications
 wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage -O Obsidian.AppImage
 chmod +x Obsidian.AppImage
 ./Obsidian.AppImage
@@ -34,7 +35,7 @@ Paste the following:
 ```
 [Desktop Entry]
 Name=Obsidian
-Exec=/home/<your username>/Downloads/Obsidian.AppImage
+Exec=/home/<your username>/applications/Obsidian.AppImage
 Icon=obsidian
 Type=Application
 Categories=Utility;Office;
@@ -50,6 +51,6 @@ update-desktop-database ~/.local/share/applications
 
 Symlink to PATH
 ```
-sudo ln -s ~/Downloads/Obsidian.AppImage /usr/local/bin/obsidian
+sudo ln -s ~/applications/Obsidian.AppImage /usr/local/bin/obsidian
 ```
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
