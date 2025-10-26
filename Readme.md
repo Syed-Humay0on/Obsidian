@@ -20,7 +20,7 @@ chmod +x Obsidian.AppImage
 
 Symlink to Path:
 ```
-
+sudo ln -s ~/Applications/Obsidian.AppImage /usr/local/bin/obsidian
 ```
 Check the version to ensure it's installed:
 
