@@ -13,6 +13,7 @@ Even better, use Official App Image from their [**GitHub repo**](https://github.
 > version 1.9.14 is the latest as of right now 
 
 ```
+
 wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage -O Obsidian.AppImage
 chmod +x Obsidian.AppImage
 ./Obsidian.AppImage
