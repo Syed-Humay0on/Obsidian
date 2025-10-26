@@ -7,7 +7,7 @@ If you're using [**Arch**](https://archlinux.org/) like me, you could simply ins
 
 	sudo pacman -S Obsidian
 
-Even better, use Snap Installer to make sure you don't have to go through dependency hell. First, make sure you have snap installed. you can install it via:
+Even better, use Official A Installer to make sure you don't have to go through dependency hell. First, make sure you have snap installed. you can install it via:
 ```
 git clone https://aur.archlinux.org/snapd.git
 cd snapd
