@@ -20,16 +20,4 @@ Check the version to ensure it's installed:
 
 	obsidian --version
 	
-Once installed, the *systemd* unit that manages the main snap communication socket needs to be enabled:
-
-	sudo systemctl enable --now snapd.socket
-
-Then install obsidian and check the version (latest 1.8.10)	
-	
-	sudo snap install obsidian --classic
-
-Once Installed, check the version:
-
-	obsidian --version 
-
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
