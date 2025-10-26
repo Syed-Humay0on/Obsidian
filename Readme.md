@@ -33,5 +33,16 @@ mkdir -p ~/.local/share/applications
 nvim ~/.local/share/applications/obsidian.desktop
 ```
 
-P
+Paste the following:
+```
+[Desktop Entry]
+Name=Obsidian
+Exec=/home/<your username>/Downloads/Obsidian.AppImage
+Icon=obsidian
+Type=Application
+Categories=Utility;Office;
+StartupNotify=true
+Comment=Markdown knowledge base
+
+```
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
