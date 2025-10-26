@@ -26,6 +26,12 @@ Check the version to ensure it's installed:
 
 	obsidian --version
 
-Integrate it into your system menu?Rofi
-	
+Integrate it into your system menu/Rofi launcher
+
+```
+mkdir -p ~/.local/share/applications
+nvim ~/.local/share/applications/obsidian.desktop
+```
+
+P
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
