@@ -25,5 +25,7 @@ sudo ln -s ~/Applications/Obsidian.AppImage /usr/local/bin/obsidian
 Check the version to ensure it's installed:
 
 	obsidian --version
+
+Integrate it into your system menu?Rofi
 	
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
