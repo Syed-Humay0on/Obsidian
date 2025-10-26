@@ -53,4 +53,4 @@ Symlink to PATH
 ```
 sudo ln -s ~/applications/Obsidian.AppImage /usr/local/bin/obsidian
 ```
-Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
+Now you're good to go! Open it via menu or simply run obsidian in terminal, install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
