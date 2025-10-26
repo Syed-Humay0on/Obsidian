@@ -14,11 +14,10 @@ Even better, use Official App Image from their [**GitHub repo**](ttps://github.c
 ```
 wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage -O Obsidian.AppImage
 chmod +x Obsidian.AppImage
-makepkg -si
 ```
 Check the version to ensure it's installed:
 
-	snap --version
+	obsidian --version
 	
 Once installed, the *systemd* unit that manages the main snap communication socket needs to be enabled:
 
