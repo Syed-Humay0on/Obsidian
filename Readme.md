@@ -13,8 +13,8 @@ Even better, use Official App Image from their [**GitHub repo**](https://github.
 > version 1.9.14 is the latest as of right now 
 
 ```
-mkdir -p ~/Applications
-cd ~/Applications
+mkdir -p ~/applications
+cd ~/applications
 wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage -O Obsidian.AppImage
 chmod +x Obsidian.AppImage
 ./Obsidian.AppImage
@@ -37,7 +37,7 @@ Paste the following:
 Name=Obsidian
 Exec=/home/<your username>/applications/Obsidian.AppImage
 Icon=obsidian
-Type=Application
+Type=application
 Categories=Utility;Office;
 StartupNotify=true
 Comment=Markdown knowledge base
