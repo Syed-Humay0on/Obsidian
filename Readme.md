@@ -7,7 +7,7 @@ If you're using [**Arch**](https://archlinux.org/) like me, you could simply ins
 
 	sudo pacman -S Obsidian
 
-Or use their blleding edge updateuse Official App Image from their [**GitHub repo**](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.14)  
+Or use their Official App Image Installer from their [**GitHub repo**](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.14)  
 
 
 > [!Note]
