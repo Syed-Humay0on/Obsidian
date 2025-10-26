@@ -20,8 +20,8 @@ chmod +x Obsidian.AppImage
 
 Symlink to Path:
 ```
-sudo ln -s ~/Applications/Obsidian.AppImage /usr/local/bin/obsidian
-```
+sudo ln -s ~/Applications/Obsidian.AppImage /u/local/bin/obsidian
+```sr
 Check the version to ensure it's installed:
 
 	obsidian --version
@@ -44,5 +44,10 @@ Categories=Utility;Office;
 StartupNotify=true
 Comment=Markdown knowledge base
 
+```
+
+Then
+```
+update-desktop-database ~/.local/share/applications
 ```
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
