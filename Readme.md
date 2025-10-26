@@ -46,4 +46,9 @@ Then
 ```
 update-desktop-database ~/.local/share/applications
 ```
+
+Symlink to PATH
+```
+sudo ln -s ~/Downloads/Obsidian.AppImage /usr/local/bin/obsidian
+```
 Now you're good to go! install plugins, apply custom or built in themes, sync with GitHub to automate your workflow whilst also enhancing your Note taking experience 
