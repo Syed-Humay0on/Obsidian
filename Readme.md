@@ -15,7 +15,12 @@ Even better, use Official App Image from their [**GitHub repo**](https://github.
 ```
 wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage -O Obsidian.AppImage
 chmod +x Obsidian.AppImage
-./Obsidin
+./Obsidian.AppImage
+```
+
+Symlink to Path:
+```
+
 ```
 Check the version to ensure it's installed:
 
