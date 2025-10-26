@@ -8,8 +8,9 @@ If you're using [**Arch**](https://archlinux.org/) like me, you could simply ins
 	sudo pacman -S Obsidian
 
 Even better, use Official App Image from their [**GitHub repo**](ttps://github.com/obsidianmd/obsidian-releases/releases/download).  
+
 > [!Note]
-> version 1.9.14 is the latest as I'm writing this doc 
+> version 1.9.14 is the latest as of right now 
 
 ```
 wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.9.14.AppImage -O Obsidian.AppImage
