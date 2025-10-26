@@ -37,7 +37,7 @@ Paste the following:
 Name=Obsidian
 Exec=/home/<your username>/applications/Obsidian.AppImage
 Icon=obsidian
-Type=application
+Type=applications
 Categories=Utility;Office;
 StartupNotify=true
 Comment=Markdown knowledge base
