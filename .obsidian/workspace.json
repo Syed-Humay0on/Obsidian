@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
+          },
+          {
+            "id": "8f54ab303a3579b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed051e64435fad22",
+  "active": "8f54ab303a3579b6",
   "lastOpenFiles": [
     "Untitled.base",
     "Untitled 2.base",
