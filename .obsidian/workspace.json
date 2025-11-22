@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
-          },
-          {
-            "id": "8f54ab303a3579b6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fec5f685983a30a2",
@@ -194,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f54ab303a3579b6",
+  "active": "ed051e64435fad22",
   "lastOpenFiles": [
-    "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
+    "Untitled.base",
     "Readme.md",
     "Notes/Progress/Elixir River-pod.md",
     "assets/banners/nikita-kachanovsky-unsplash.jpg",
