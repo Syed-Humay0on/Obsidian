@@ -11,13 +11,14 @@
             "id": "ed051e64435fad22",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -181,10 +182,10 @@
   },
   "active": "ed051e64435fad22",
   "lastOpenFiles": [
+    "Untitled 1.base",
     "Readme.md",
     "Untitled 2.base",
     "Untitled.base",
-    "Untitled 1.base",
     "Notes/Progress/Elixir River-pod.md",
     "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "Notes/Progress",
