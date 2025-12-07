@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Notes/Commits.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Commits.md"
             }
           }
         ]
@@ -182,9 +182,11 @@
   },
   "active": "b8314e997ab44ed6",
   "lastOpenFiles": [
+    "Readme.md",
+    "Notes/Commits.md.md",
+    "Notes/Untitled",
     "Notes/Progress/Notes",
     "Untitled 1.base",
-    "Readme.md",
     "Untitled 2.base",
     "Untitled.base",
     "Notes/Progress/Elixir River-pod.md",
@@ -199,10 +201,7 @@
     "Notes/devpod",
     "Notes/Devpods-setup.md~",
     "Notes/1753617426-XLBM.md",
-    "Notes/Untitled.md",
-    "Notes/Devpods-setup",
     "Untitled.md",
-    "Notes",
     "Daily Note/Welcome.md",
     "images/banners/ObsidianBanner.jpg",
     "images/hq720.jpg",
