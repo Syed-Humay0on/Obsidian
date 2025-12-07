@@ -1,8 +1,8 @@
 Alternatives:
 
-    Python: There is a separate Python-based commitizen tool that provides similar functionality for Python projects and can be installed via pip.
-    PHP: A php-commitizen tool is available for PHP environments.
-    Go/Rust: Tools like commitsar (Go) or cocogitto (Rust) offer commit linting and interactive commit functionality in non-JS environments. 
++ Python: There is a separate Python-based commitizen tool that provides similar functionality for Python projects and can be installed via pip.
++ PHP: A php-commitizen tool is available for PHP environments.
++ Go/Rust: Tools like commitsar (Go) or cocogitto (Rust) offer commit linting and interactive commit functionality in non-JS environments. 
 
 Summary
 You can adopt the conventional commit standard regardless of your project's primary language. While the specific tools you mentioned (Node.js Husky and Commitizen CLI) are tied to the JavaScript ecosystem, you can achieve the same workflow using: 
