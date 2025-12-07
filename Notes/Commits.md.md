@@ -1,4 +1,4 @@
-Alternatives:
+### Alternatives:
 
 + Python: There is a separate Python-based commitizen tool that provides similar functionality for Python projects and can be installed via pip.
 + PHP: A php-commitizen tool is available for PHP environments.
