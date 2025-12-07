@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fec5f685983a30a2",
@@ -181,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed051e64435fad22",
+  "active": "b8314e997ab44ed6",
   "lastOpenFiles": [
+    "Notes/Progress/Notes",
     "Untitled 1.base",
     "Readme.md",
     "Untitled 2.base",
