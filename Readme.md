@@ -27,6 +27,7 @@ Check the version to ensure it's installed:
 
 Integrate it into your system menu/Rofi launcher (only if you are using a tiling/scrolling manager and manually setting up your app launcher)
 
+> [!Tip]
 ```
 mkdir -p ~/.local/share/applications
 nvim ~/.local/share/applications/obsidian.desktop
