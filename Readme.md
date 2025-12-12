@@ -25,7 +25,7 @@ Check the version to ensure it's installed:
 
 	obsidian --version
 
-Integrate it into your system menu/Rofi launcher ()
+### Integrate it into your system menu/Rofi launcher
 
 > [!Warning]
 >only if you are using a tiling/scrolling manager and manually setting up your app launcher 
