@@ -7,7 +7,7 @@ If you're using [**Arch**](https://archlinux.org/) like me, you could simply ins
 
 	sudo pacman -S Obsidian
 
-Or build from source using their official AppImage Installer from their [**GitHub repo**](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.14)  
+Or build from source using their official AppImage Installer from their [**GitHub repo**](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.10.6)  
 
 
 > [!Note]
