@@ -11,7 +11,7 @@ Or build from source using their official AppImage Installer from their [**GitHu
 
 
 > [!Note]
-> version 1.10.6 is the latest as of right now 
+> version 1.10.6 is the latest right now 
 
 ```
 mkdir -p ~/applications
