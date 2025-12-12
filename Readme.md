@@ -16,7 +16,7 @@ Or build from source using their official AppImage Installer from their [**GitHu
 ```
 mkdir -p ~/applications
 cd ~/applications
-wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/Obsidian-1.10.6.AppImage -O Obsidian.AppImage
+wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6-arm64.AppImage -O Obsidian.AppImage
 chmod +x Obsidian.AppImage
 ./Obsidian.AppImage
 ```
