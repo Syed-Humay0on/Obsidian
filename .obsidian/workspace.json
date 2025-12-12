@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cd69e89a754deac7",
+        "id": "6ee6f45c55520109",
         "type": "tabs",
         "children": [
           {
-            "id": "ed051e64435fad22",
+            "id": "5ccc2eb52243ab3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Notes/Devpods/Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "b40e86787751b474",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,21 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b40e86787751b474",
+  "active": "5ccc2eb52243ab3c",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2025-12-12.md",
+    "Readme.md",
+    "Notes/Devpods/Readme.md",
     "Notes/Conventional_Commits.md.md",
     "Notes/Progress/Elixir River-pod.md",
-    "Readme.md",
     "Notes/Untitled",
     "Notes/Progress/Notes",
     "Untitled 1.base",
     "Untitled 2.base",
-    "Untitled.base",
     "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "Notes/Progress",
     "assets/banners/ObsidianBanner.jpg",
     "assets/banners/dark_girl.jpg",
-    "Notes/Devpods/Readme.md",
     "Notes/Devpods/Readme.md~",
     "Notes/Devpods-setup.md",
     "Notes/Devpods",
