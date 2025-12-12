@@ -27,7 +27,7 @@ Check the version to ensure it's installed:
 
 ### Integrate it into your system menu/Rofi launcher
 
-> [!Warning]
+> [!Note]
 >only if you are using a tiling/scrolling manager and manually setting up your app launcher 
 
 
