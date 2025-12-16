@@ -32,9 +32,33 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.6"
             }
+          },
+          {
+            "id": "0c57dca9ca62ac0e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "fea9f321abb2675c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-17 00.15.53.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,12 +219,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "261f12486925a25a",
+  "active": "fea9f321abb2675c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
+    "Excalidraw",
     "Readme.md",
     "Untitled.base",
     "Excalidraw/Drawing 2025-12-12 21.12.22.excalidraw.md",
-    "Excalidraw",
     "2025-12-12.md",
     "Notes/Devpods/Readme.md",
     "Notes/Conventional_Commits.md.md",
