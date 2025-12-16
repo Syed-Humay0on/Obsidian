@@ -44,21 +44,9 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.6"
             }
-          },
-          {
-            "id": "fea9f321abb2675c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-17 00.15.53.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,12 +207,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fea9f321abb2675c",
+  "active": "0c57dca9ca62ac0e",
   "lastOpenFiles": [
+    "Untitled.base",
     "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
     "Excalidraw",
     "Readme.md",
-    "Untitled.base",
     "Excalidraw/Drawing 2025-12-12 21.12.22.excalidraw.md",
     "2025-12-12.md",
     "Notes/Devpods/Readme.md",
