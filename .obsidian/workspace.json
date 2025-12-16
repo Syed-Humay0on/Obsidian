@@ -24,12 +24,14 @@
             "id": "56095665b59f7c4e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           },
           {
@@ -103,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fec5f685983a30a2",
@@ -209,8 +212,8 @@
   },
   "active": "56095665b59f7c4e",
   "lastOpenFiles": [
-    "Readme.md",
     "Untitled.base",
+    "Readme.md",
     "Excalidraw/Drawing 2025-12-12 21.12.22.excalidraw.md",
     "Excalidraw",
     "2025-12-12.md",
