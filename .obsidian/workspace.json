@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "67328979d6a8daa1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "7dd5597fb34cc9e9",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "56095665b59f7c4e",
+  "active": "67328979d6a8daa1",
   "lastOpenFiles": [
     "Untitled.base",
     "Readme.md",
