@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +208,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c57dca9ca62ac0e",
+  "active": "261f12486925a25a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
     "Untitled.base",
