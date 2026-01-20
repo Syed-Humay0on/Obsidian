@@ -25,12 +25,13 @@
             "id": "0c57dca9ca62ac0e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "bases",
               "state": {
-                "file": "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md"
+                "file": "Untitled 2.base",
+                "viewName": "Table"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-17 00.15.53.excalidraw"
+              "icon": "lucide-table",
+              "title": "Untitled 2"
             }
           }
         ],
@@ -91,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fec5f685983a30a2",
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,19 +197,19 @@
   },
   "active": "0c57dca9ca62ac0e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
     "Readme.md",
+    "Untitled 2.base",
+    "Notes/Devpods/Readme.md",
+    "Untitled 1.base",
+    "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
     "Untitled.base",
     "Excalidraw",
     "Excalidraw/Drawing 2025-12-12 21.12.22.excalidraw.md",
     "2025-12-12.md",
-    "Notes/Devpods/Readme.md",
     "Notes/Conventional_Commits.md.md",
     "Notes/Progress/Elixir River-pod.md",
     "Notes/Untitled",
     "Notes/Progress/Notes",
-    "Untitled 1.base",
-    "Untitled 2.base",
     "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "Notes/Progress",
     "assets/banners/ObsidianBanner.jpg",
