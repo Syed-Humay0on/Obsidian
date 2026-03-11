@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
+          },
+          {
+            "id": "0a74541793a5976b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fec5f685983a30a2",
@@ -197,7 +208,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c57dca9ca62ac0e",
+  "active": "0a74541793a5976b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
     "Readme.md",
