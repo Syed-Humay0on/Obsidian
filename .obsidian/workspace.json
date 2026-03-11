@@ -39,12 +39,14 @@
             "id": "0a74541793a5976b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "Notes/Urdu phonetic/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -210,6 +212,8 @@
   },
   "active": "0a74541793a5976b",
   "lastOpenFiles": [
+    "Notes/Urdu phonetic/Untitled.md",
+    "Notes/Urdu phonetic",
     "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
     "Readme.md",
     "Untitled.base",
@@ -221,7 +225,6 @@
     "2025-12-12.md",
     "Notes/Conventional_Commits.md.md",
     "Notes/Progress/Elixir River-pod.md",
-    "Notes/Untitled",
     "Notes/Progress/Notes",
     "assets/banners/nikita-kachanovsky-unsplash.jpg",
     "Notes/Progress",
