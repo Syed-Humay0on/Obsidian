@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Urdu phonetic/Readme.md",
+                "file": "Notes/Urdu phonetic/Pak Urdu Phonetic Layout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Pak Urdu Phonetic Layout"
             }
           }
         ],
@@ -210,9 +210,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b8314e997ab44ed6",
+  "active": "0a74541793a5976b",
   "lastOpenFiles": [
-    "Notes/Urdu phonetic/Readme.md",
+    "Notes/Urdu phonetic/Pak Urdu Phonetic Layout.md",
     "Notes/Urdu phonetic",
     "Excalidraw/Drawing 2025-12-17 00.15.53.excalidraw.md",
     "Readme.md",
