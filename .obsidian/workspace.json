@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
+          },
+          {
+            "id": "e69ceb69fb711e5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c57dca9ca62ac0e",
+  "active": "e69ceb69fb711e5d",
   "lastOpenFiles": [
     "Readme.md",
     "Notes/Urdu phonetic/Readme.md",
